@@ -32,10 +32,12 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin: 0;
+  animation-duration: 1000ms;
+  margin: 153px 0 0;
 }
 
 .u-section-1 .u-text-2 {
+  animation-duration: 1000ms;
   margin: 20px 0 0;
 }
 
@@ -156,11 +158,13 @@
 
 .u-section-2 .u-text-1 {
   font-weight: 700;
+  animation-duration: 1000ms;
   margin: 94px 0 0;
 }
 
 .u-section-2 .u-text-2 {
   font-weight: 700;
+  animation-duration: 1000ms;
   margin: 70px 0 0;
 }
 
@@ -270,11 +274,13 @@
 }
 
 .u-section-3 .u-text-1 {
+  animation-duration: 1000ms;
   margin: 156px 0 0;
 }
 
 .u-section-3 .u-text-2 {
   font-weight: 700;
+  animation-duration: 1000ms;
   margin: 20px 0 0;
 }
 

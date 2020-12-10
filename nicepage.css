@@ -4594,22 +4594,13 @@ ol {
   /*TODO maye need another solution for negative marin*/
   cursor: pointer;
   color: inherit;
-<<<<<<< HEAD
   font-size: inherit;
-=======
-  font-style: inherit;
-  font-size: inherit;
-  font-weight: inherit;
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
   font-family: inherit;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
-<<<<<<< HEAD
   font-style: inherit;
   font-weight: inherit;
-=======
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
   text-decoration: none;
   border: 0 none transparent;
   outline-width: 0;
@@ -4657,19 +4648,10 @@ ol {
   border-radius: 0 !important;
 }
 .u-text a,
-<<<<<<< HEAD
 .u-post-content a,
 .u-tab-item a,
 .u-nav-item a {
   font-size: inherit;
-=======
-.u-blog-control a,
-.u-tab-item a,
-.u-nav-item a {
-  font-style: inherit;
-  font-size: inherit;
-  font-weight: inherit;
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
   font-family: inherit;
   line-height: inherit;
   letter-spacing: inherit;
@@ -4745,22 +4727,13 @@ a {
 }
 .u-logo {
   color: inherit;
-<<<<<<< HEAD
   font-size: inherit;
-=======
-  font-style: inherit;
-  font-size: inherit;
-  font-weight: inherit;
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
   font-family: inherit;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
-<<<<<<< HEAD
   font-style: inherit;
   font-weight: inherit;
-=======
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
   text-decoration: none;
   border: 0 none transparent;
   outline-width: 0;
@@ -4792,10 +4765,7 @@ a {
   transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
   background-color: transparent;
   color: inherit;
-<<<<<<< HEAD
   text-align: inherit;
-=======
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
   height: auto;
 }
 .u-form-horizontal label,
@@ -5475,10 +5445,7 @@ a {
 .u-form .u-form-group.u-form-checkbox input[type="checkbox"],
 .u-form .u-form-group.u-form-agree input[type="checkbox"] {
   float: left;
-<<<<<<< HEAD
   flex-shrink: 0;
-=======
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
 }
 .u-form .u-form-group.u-form-checkbox label.u-label,
 .u-form .u-form-group.u-form-agree label.u-label {
@@ -12161,12 +12128,9 @@ section.u-image,
   z-index: auto;
   position: absolute !important;
 }
-<<<<<<< HEAD
 .u-offcanvas-opened .u-header.u-sticky + section {
   z-index: -1;
 }
-=======
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
 .u-hide-header .u-header,
 .u-hide-footer .u-footer {
   display: none;
@@ -15908,22 +15872,13 @@ div.u-video,
 .u-nav-link {
   display: block;
   white-space: nowrap;
-<<<<<<< HEAD
   font-size: inherit;
-=======
-  font-style: inherit;
-  font-size: inherit;
-  font-weight: inherit;
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
   font-family: inherit;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
-<<<<<<< HEAD
   font-style: inherit;
   font-weight: inherit;
-=======
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
   text-decoration: none;
   border: 0 none transparent;
   outline-width: 0;
@@ -15966,7 +15921,6 @@ div.u-video,
   height: 0;
   overflow: hidden;
 }
-<<<<<<< HEAD
 .menu-collapse .u-nav-link.u-file-icon img {
   position: absolute;
   top: 0;
@@ -15978,8 +15932,6 @@ div.u-video,
   height: 1em;
   display: block;
 }
-=======
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
 .u-nav-container-collapse {
   display: none;
   z-index: 1001;
@@ -16046,13 +15998,10 @@ div.u-video,
 .u-enable-responsive.u-offcanvas .u-sidenav > * {
   position: relative;
 }
-<<<<<<< HEAD
 .u-enable-responsive.u-offcanvas .u-sidenav .u-nav-link {
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
-=======
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
 .u-enable-responsive.u-offcanvas:not(.u-menu-open-right) .u-sidenav {
   border-left: none;
 }
@@ -16408,22 +16357,13 @@ p {
 }
 .u-social-url {
   color: inherit;
-<<<<<<< HEAD
   font-size: inherit;
-=======
-  font-style: inherit;
-  font-size: inherit;
-  font-weight: inherit;
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
   font-family: inherit;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
-<<<<<<< HEAD
   font-style: inherit;
   font-weight: inherit;
-=======
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
   text-decoration: none;
   border: 0 none transparent;
   outline-width: 0;
@@ -17727,12 +17667,9 @@ a.pswp__share--download:hover {
 .u-text .u-btn.u-button-link {
   display: inline;
 }
-<<<<<<< HEAD
 .u-text.u-cart-block-content .u-btn {
   white-space: nowrap;
 }
-=======
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
 .u-slider {
   display: flex;
   flex-direction: column;
@@ -18059,22 +17996,13 @@ a.pswp__share--download:hover {
 .u-carousel-control-prev,
 .u-carousel-control-next {
   color: inherit;
-<<<<<<< HEAD
   font-size: inherit;
-=======
-  font-style: inherit;
-  font-size: inherit;
-  font-weight: inherit;
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
   font-family: inherit;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
-<<<<<<< HEAD
   font-style: inherit;
   font-weight: inherit;
-=======
->>>>>>> 3910e1297bac817200aaaf56e1e5378da440f8d9
   text-decoration: none;
   border: 0 none transparent;
   outline-width: 0;

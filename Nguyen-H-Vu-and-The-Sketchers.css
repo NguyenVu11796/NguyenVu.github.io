@@ -386,7 +386,6 @@
 }
 
 .u-section-3 .u-layout-wrap-1 {
-  position: relative;
   margin: 123px auto 60px 0;
 }
 
@@ -424,6 +423,7 @@
   }
 
   .u-section-3 .u-layout-wrap-1 {
+    position: relative;
     margin-right: initial;
     margin-left: initial;
   }

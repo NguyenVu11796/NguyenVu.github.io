@@ -38,8 +38,8 @@
 
 .u-section-4-1 .u-image-1 {
   width: 567px;
-  left: auto;
-  right: 127px;
+  height: 600px;
+  margin: -22px 61px -38px auto;
 }
 
 @media (max-width: 1199px) {
@@ -54,6 +54,12 @@
   .u-section-4-1 .u-layout-cell-2 {
     min-height: 495px;
     background-position: 50% 50%;
+  }
+
+  .u-section-4-1 .u-image-1 {
+    width: 507px;
+    height: 537px;
+    margin-right: 0;
   }
 }
 
@@ -78,6 +84,11 @@
   .u-section-4-1 .u-container-layout-2 {
     padding-left: 30px;
     padding-right: 30px;
+  }
+
+  .u-section-4-1 .u-image-1 {
+    width: 420px;
+    height: 445px;
   }
 }
 
@@ -109,17 +120,22 @@
   .u-section-4-1 .u-layout-cell-2 {
     min-height: 268px;
   }
+
+  .u-section-4-1 .u-image-1 {
+    width: 320px;
+    height: 339px;
+  }
 }.u-section-4-2 {
   min-height: 800px;
 }
 
 .u-section-4-2 .u-layout-wrap-1 {
-  margin-top: 0;
+  margin-top: 44px;
   margin-bottom: 60px;
 }
 
 .u-section-4-2 .u-layout-cell-1 {
-  min-height: 600px;
+  min-height: 589px;
 }
 
 .u-section-4-2 .u-container-layout-1 {
@@ -127,7 +143,7 @@
 }
 
 .u-section-4-2 .u-text-1 {
-  margin-top: 82px;
+  margin-top: 38px;
   margin-bottom: 0;
 }
 
@@ -137,7 +153,7 @@
 }
 
 .u-section-4-2 .u-image-1 {
-  min-height: 600px;
+  min-height: 589px;
   background-image: url("images/Picture4.png");
   background-position: 49.49% 50%;
 }
@@ -152,7 +168,7 @@
   }
 
   .u-section-4-2 .u-layout-cell-1 {
-    min-height: 495px;
+    min-height: 486px;
   }
 
   .u-section-4-2 .u-text-2 {
@@ -161,7 +177,7 @@
   }
 
   .u-section-4-2 .u-image-1 {
-    min-height: 495px;
+    min-height: 486px;
   }
 }
 
@@ -180,7 +196,7 @@
   }
 
   .u-section-4-2 .u-image-1 {
-    min-height: 379px;
+    min-height: 372px;
   }
 
   .u-section-4-2 .u-container-layout-2 {
@@ -200,7 +216,7 @@
   }
 
   .u-section-4-2 .u-image-1 {
-    min-height: 363px;
+    min-height: 356px;
   }
 
   .u-section-4-2 .u-container-layout-2 {
@@ -359,7 +375,6 @@
 .u-section-4-4 .u-group-1 {
   width: 789px;
   min-height: 312px;
-  height: auto;
   background-image: none;
   margin: 0 auto 0 calc(((100% - 1140px) / 2) + 176px);
 }
